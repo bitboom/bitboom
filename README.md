@@ -12,7 +12,7 @@
   - From Design Pattern to Open-source Platform
 
 ## Patents
-- Key Management (Published 2020-KR)
+- Key Management (Published 2020-KR, 2022-US)
 - Data Protection (Published 2020-KR)
 - Container (Published 2019-KR, 2020-US)
 
