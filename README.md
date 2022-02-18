@@ -17,10 +17,10 @@
 - Container (Published 2019-KR, 2020-US)
 
 ## Education
-**MSc, Computer Science**; Yonsei University, South Korea (2010-2014)
+**MSc, Computer Science**; Yonsei University, South Korea (2014-2017)
 - *Paper: Proxy based application digital signature validation system*  
 
-**BSc, Computer Science**; Kookmin University, South Korea (2007-2010)
+**BSc, Computer Science**; Kookmin University, South Korea (2007-2014)
 
 ## Projects
 - Secure OS for Security chip (2020 - present)
