@@ -1,5 +1,5 @@
 # Sangwan Kwon
-> Software Engineer, Associated Architecture certificate by Samsung  
+> Staff Software Engineer, Associated Architecture certificate by Samsung  
 > Security Team, Samsung Research, Samsung Electronics  
 > Contacts: sangwan.kwon@samsung.com, bitboom9@gmail.com  
 
