@@ -1,11 +1,12 @@
 # Sangwan Kwon
 > Staff Software Engineer, Associated Architecture certificate by Samsung  
-> Security Team, Samsung Research, Samsung Electronics  
+> Security & Privacy Team, Samsung Research, Samsung Electronics  
 > Contacts: sangwan.kwon@samsung.com, bitboom9@gmail.com  
 
 ## Technical Skills
 - Professional experience in System Security
   - From Security Middleware to Secure OS
+  - Towards Confidential Computing
 - Proficient in System Programming
   - From Modern C++ to **Rust**
 - Strong understanding Software Architecture
@@ -17,18 +18,23 @@
 - Container (Published 2019-KR, 2020-US)
 
 ## Education
-**MSc, Computer Science**; Yonsei University, South Korea (2014-2017)
-- *Paper: Proxy based application digital signature validation system*  
-
-**BSc, Computer Science**; Kookmin University, South Korea (2007-2014)
+- **MSc, Computer Science**: Yonsei University, South Korea (2014-2017)
+- **BSc, Computer Science**: Kookmin University, South Korea (2007-2014)
 
 ## Projects
-- Secure OS for Security chip (2020 - present)
+- Confidential Computing (2022 - present)
+  - Role
+    - On-device confidential computing framework development: [islet](https://github.com/samsung/islet)
+    - Confidential computing API standardization 
+  - Feature
+    - Arm Confidential Compute Architecture based
+- Secure OS for Security chip (2020 - 2022)
   - Language: Rust, C++ 17
   - Role
     - Kernel development on Secure OS (Rust)
     - App Framework development on Secure OS (Rust)
     - Middleware to commuicate with Secure OS on Android OS (C++)
+    - Type-safety RPC framework (Rust & C++)
 - Lightweight Actor Framework (2020)
   - Language: Rust (no std)
   - Role
