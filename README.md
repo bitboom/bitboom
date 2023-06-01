@@ -24,7 +24,7 @@
 ## Projects
 - Confidential Computing (2022 - present)
   - Role
-    - On-device confidential computing framework development: [islet](https://github.com/samsung/islet)
+    - [On-device confidential computing framework](https://github.com/samsung/islet) development
     - Confidential computing API standardization 
   - Feature
     - Arm Confidential Compute Architecture based
