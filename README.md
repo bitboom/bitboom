@@ -1,14 +1,15 @@
 # Sangwan Kwon
-> Staff Software Engineer, Associated Architecture certificate by Samsung  
-> Security & Privacy Team, Samsung Research, Samsung Electronics  
-> Contacts: sangwan.kwon@samsung.com, bitboom9@gmail.com  
-
+- Staff Software Engineer, Associated Architecture
+- Security & Privacy Team, Samsung Research, Samsung Electronics  
+- Contacts: sangwan.kwon@samsung.com, bitboom9@gmail.com
+ 
 ## Technical Skills
-- Professional experience in System Security
-  - From Security Middleware to Secure OS
-  - Towards Confidential Computing
+- Professional Experience in System Security
+  - From Security Middleware to Secure OS to Hypervisor
+  - Currently interested in Confidential Computing
 - Proficient in System Programming
-  - From Modern C++ to **Rust**
+  - From Modern C++ to Rust
+  - Highly interested in Rust
 - Strong understanding Software Architecture
   - From Design Pattern to Open-source Platform
 
@@ -23,9 +24,12 @@
 
 ## Projects
 - Confidential Computing (2022 - present)
+  - Demonstrate [On-device Confidential Computing Framework](https://github.com/samsung/islet) at [Confidential Computing Summit 2023](https://confidentialcomputingsummit.com/)
+    - Related article #1: [VMware, AMD, Samsung and RISC-V push for confidential computing standards](https://www.theregister.com/2023/06/30/confidential_computing_standards/)
+    - Related article #2: [VMware partners with Samsung, AMD and RISC-V to accelerate confidential computing](https://siliconangle.com/2023/06/29/vmware-partners-samsung-amd-risc-v-accelerate-confidential-computing/)
   - Role
-    - [On-device confidential computing framework](https://github.com/samsung/islet) development
-    - Confidential computing API standardization 
+    - [On-device Confidential Computing Framework](https://github.com/samsung/islet) development
+    - Arm CCA part on [Universal Confidential Computing Framework](https://github.com/vmware-research/certifier-framework-for-confidential-computing)
   - Feature
     - Arm Confidential Compute Architecture based
 - Secure OS for Security chip (2020 - 2022)
