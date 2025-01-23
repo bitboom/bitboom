@@ -1,11 +1,10 @@
 # Sangwan Kwon
-On a mission to craft secure and efficient systems with a modern twist of programming languages
+On a mission to craft secure and efficient systems with a modern twist
 
-## Staff Software Engineer
-Samsung Research, Security & Privacy Team
-- Expert in Confidential Computing and Rust
+- Staff Software Engineer, Security & Privacy Team, Samsung Research
+- Interested in Confidential Computing and Rust
 - 10+ years in System Security (Secure OS, Hypervisor)
-- sangwan.kwon@samsung.com | bitboom9@gmail.com
+- sangwan.kwon@samsung.com + bitboom9@gmail.com
 
 ## Core Competencies
 - **Confidential Computing**
