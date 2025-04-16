@@ -28,7 +28,7 @@ On a mission to craft secure and efficient systems with a modern twist
 - Built a type-safe RPC framework for secure inter-process communication
 
 ## Career Timeline
-| Year          | Role & Achievements                                                                                      |
+| Year          | Role & Achievements      |      
 |---------------|-----------------------------------------------------------------------------------------------------|
 | 2025 - present| Developing on-premise confidential computing solutions at Samsung Research                           |
 | 2022 - 2024   | Architected and core-developed Islet [1] and contributed to Certifier Framework [3], advancing Arm CCA and TEE standards |
