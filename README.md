@@ -1,7 +1,7 @@
 # Sangwan Kwon
 On a mission to craft secure and efficient systems with a modern twist
 
-- Staff Software Engineer, Security & Privacy Team, Samsung Research
+- Staff Software Engineer, Security & Privacy Team at AI Platform Center, Samsung Electronics
 - Interested in Confidential Computing and Rust
 - 10 years in System Security (Secure OS, Hypervisor)
 - Contact: sangwan.kwon@samsung.com + bitboom9@gmail.com
@@ -31,7 +31,7 @@ On a mission to craft secure and efficient systems with a modern twist
 
 | Year          | Role & Achievements      |      
 |---------------|-----------------------------------------------------------------------------------------------------|
-| 2025 - present| Developing on-premise confidential computing solutions at Samsung Research                           |
+| 2025 - present| Developing confidential AI computing solutions.                                                     |
 | 2022 - 2024   | Architected and core-developed Islet [1] and contributed to Certifier Framework [3], advancing Arm CCA and TEE standards |
 | 2020 - 2022   | Built Rust-based secure OS kernel for security chips, enhancing Mobile security                     |
 | 2019 - 2020   | Designed the unified security monitor project (ViST) for Tizen 6.0, with type-safe query builder and security virtual table. |
