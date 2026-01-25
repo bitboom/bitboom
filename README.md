@@ -10,7 +10,7 @@ sangwan.kwon@samsung.com · bitboom9@gmail.com
 ## Professional Summary
 
 System security engineer with 10+ years of experience building
-security-critical software across embedded security processors (SPU),
+security-critical software across embedded security processors,
 mobile devices, and cloud infrastructure.
 
 Specialized in confidential computing and Rust-based systems programming;
@@ -29,14 +29,16 @@ enabling secure AI inference with hardware isolation.
   - Built **Rust-based Realm Management Monitor (RMM)** for Arm CCA adopted as a CCC Project
   - Contributed **Arm CCA backend support** in CCC projects for cross-platform confidential computing APIs
 - **System & Kernel Security**
-  - Built embedded secure OS for Samsung Knox Vault’s hardware-isolated security processor
+  - Designed and implemented embedded secure OS for Samsung Knox Vault’s hardware-isolated security processor,
+    completing technology transfer to business division
   - Designed security middleware for Tizen platforms including unified security monitors,
     TrustZone-based authentication, and per-application namespace isolation for SSL trust anchors
 - **Rust Systems Programming**
   - Applied Rust across the full spectrum from bare-metal no_std to full-featured environments
-  - Developed a compiler-level tool to detect unsafe code and used Miri-based validation
-    to improve auditability and reduce unsafe usage
-    
+  - Developed a compiler-level tool to detect unsafe code at the HIR stage
+    and used Miri-based validation to improve auditability and reduce unsafe usage
+  - Maintain CCC open-source project, reviewing and evaluating external contributions
+
 -----
 
 ## Selected Projects
@@ -65,16 +67,17 @@ enabling secure AI inference with hardware isolation.
 ### Camellia — Rust-based Secure OS for Security Processors (2020 – 2022)
 
 - Designed and implemented **Camellia**, a Rust-based secure OS kernel
-  for Samsung Knox Vault’s security processor
-- Built a type-safe RPC framework for secure inter-process communication
+  for Samsung Knox Vault’s security processor in a **no_std** environment
+- Built a **type-safe RPC framework** for secure inter-process communication
 - Developed a Rust tool to trace unsafe code at the HIR stage,
   minimizing unsafe code usage
-- Delivered technology transfer to business divisions
-  (details not public)
+- Completed technology transfer to business division,
+  meeting production requirements for **stability, performance, and reliability**
+  in mass-produced devices
 
 ### Tizen — Security Middleware (2015 – 2020)
 
-- Contributed across Mobile / TV / Wearable product commercialization
+- Contributed to **commercialization** of Mobile, TV, and Wearable products
 - Designed unified security monitor for device policy management
 - Developed TrustZone-based authentication framework
 - Implemented Modern C++ RPC framework for secure client-server method invocation
