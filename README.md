@@ -29,10 +29,11 @@ enabling secure AI inference with hardware isolation.
   - Built **Rust-based Realm Management Monitor (RMM)** for Arm CCA adopted as a CCC Project
   - Contributed **Arm CCA backend support** in CCC projects for cross-platform confidential computing APIs
 - **System & Kernel Security**
-  - Designed and implemented embedded secure OS for Samsung Knox Vault’s hardware-isolated security processor,
+  - Designed and implemented embedded secure OS for Samsung Knox Vault's hardware-isolated security processor,
     completing technology transfer to business division
-  - Designed security middleware for Tizen platforms including unified security monitors,
-    TrustZone-based authentication, and per-application namespace isolation for SSL trust anchors
+  - Built security middleware for Tizen platforms including unified security monitors,
+    authentication framework supporting TrustZone and software-based backends,
+    and per-application isolated SSL trust anchors
 - **Rust Systems Programming**
   - Applied Rust across the full spectrum from bare-metal no_std to full-featured environments
   - Developed a compiler-level tool to detect unsafe code at the HIR stage
@@ -45,7 +46,7 @@ enabling secure AI inference with hardware isolation.
 
 ### Vigilo — Hardened Cloud OS for Private Cloud Compute on Intel TDX (2025 – Present)
 
-- Architecting a hardened Cloud OS leveraging **Intel TDX**
+- Architecting **a hardened Cloud OS** leveraging Intel TDX
   for Private Cloud Compute
 - Defining **OS-level enforcement** to achieve on-device-equivalent privacy
 - Planned for open-source release
@@ -66,8 +67,8 @@ enabling secure AI inference with hardware isolation.
 
 ### Camellia — Rust-based Secure OS for Security Processors (2020 – 2022)
 
-- Designed and implemented **Camellia**, a Rust-based secure OS kernel
-  for Samsung Knox Vault’s security processor in a **no_std** environment
+- Designed and implemented a Rust-based secure OS for Samsung Knox Vault's **hardware-isolated security processor**,
+  covering both kernel and user-space components in a **bare-metal environment**
 - Built a **type-safe RPC framework** for secure inter-process communication
 - Developed a Rust tool to trace unsafe code at the HIR stage,
   minimizing unsafe code usage
@@ -79,7 +80,7 @@ enabling secure AI inference with hardware isolation.
 
 - Contributed to **commercialization** of Mobile, TV, and Wearable products
 - Designed unified security monitor for device policy management
-- Developed TrustZone-based authentication framework
+- Built authentication framework with pluggable backends supporting both software-based and TrustZone-backed secure storage
 - Implemented Modern C++ RPC framework for secure client-server method invocation
 - Maintained SSL trust anchors and application signature validation
 
